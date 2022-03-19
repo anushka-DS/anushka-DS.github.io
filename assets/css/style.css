@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   background: #ffffff;
-  color: #898989;
+  color: #800080;
   font-family: "Poppins", helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -196,7 +196,7 @@ p {
   font-style: italic;
 }
 #header .logo a {
-  color: #898989;
+  color: #800080;
 }
 #header .logo img {
   max-height: 40px;
