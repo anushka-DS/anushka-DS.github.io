@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   background: #ffffff;
-  color: #800080;
+  color: #800000;
   font-family: "Poppins", helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -593,7 +593,7 @@ p {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #999999;
+  color: #b8a07e;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -1012,7 +1012,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: 800000;
   transition: all 0.5s ease-in-out 0s;
 }
 
