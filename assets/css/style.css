@@ -50,7 +50,7 @@ a:hover {
 p {
   margin: 25px 0;
   padding: 0;
-  font-size: 15px;
+  font-size: 17px;
   color: #999999;
   line-height: 28px;
 }
@@ -69,8 +69,8 @@ p {
   background: #333;
   border: medium none;
   border-radius: 0;
-  color: #FF0000;
-  font-size: 12px;
+  color: #fff;
+  font-size: 14px;
   height: 50px;
   line-height: 50px;
   padding: 0 30px;
